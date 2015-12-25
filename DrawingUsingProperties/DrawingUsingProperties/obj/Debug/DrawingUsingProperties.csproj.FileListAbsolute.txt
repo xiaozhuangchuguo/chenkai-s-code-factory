@@ -1,0 +1,13 @@
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\bin\Debug\DrawingUsingProperties.exe.config
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\bin\Debug\DrawingUsingProperties.exe
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\bin\Debug\DrawingUsingProperties.pdb
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.csprojResolveAssemblyReference.cache
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\MainWindow.baml
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\MainWindow.g.cs
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\App.g.cs
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties_MarkupCompile.cache
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.g.resources
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.Properties.Resources.resources
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.csproj.GenerateResource.Cache
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.exe
+E:\chenkai\DrawingUsingProperties\DrawingUsingProperties\obj\Debug\DrawingUsingProperties.pdb
