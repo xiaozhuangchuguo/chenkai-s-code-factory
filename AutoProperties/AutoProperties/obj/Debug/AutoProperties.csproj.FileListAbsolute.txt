@@ -1,0 +1,6 @@
+E:\chenkai\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe.config
+E:\chenkai\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe
+E:\chenkai\AutoProperties\AutoProperties\bin\Debug\AutoProperties.pdb
+E:\chenkai\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csprojResolveAssemblyReference.cache
+E:\chenkai\AutoProperties\AutoProperties\obj\Debug\AutoProperties.exe
+E:\chenkai\AutoProperties\AutoProperties\obj\Debug\AutoProperties.pdb
