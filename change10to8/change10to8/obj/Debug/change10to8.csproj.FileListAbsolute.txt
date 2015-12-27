@@ -1,0 +1,13 @@
+E:\chenkai\change10to8\change10to8\bin\Debug\change10to8.exe.config
+E:\chenkai\change10to8\change10to8\bin\Debug\change10to8.exe
+E:\chenkai\change10to8\change10to8\bin\Debug\change10to8.pdb
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.csprojResolveAssemblyReference.cache
+E:\chenkai\change10to8\change10to8\obj\Debug\MainWindow.baml
+E:\chenkai\change10to8\change10to8\obj\Debug\MainWindow.g.cs
+E:\chenkai\change10to8\change10to8\obj\Debug\App.g.cs
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8_MarkupCompile.cache
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.g.resources
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.Properties.Resources.resources
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.csproj.GenerateResource.Cache
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.exe
+E:\chenkai\change10to8\change10to8\obj\Debug\change10to8.pdb
